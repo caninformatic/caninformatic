@@ -38,10 +38,6 @@ El sitio web está desarrollado con tecnologías web estándar:
 
 El sitio está alojado en GitHub Pages. Para verlo en línea, visita el siguiente enlace:
 
-[https://tuusuario.github.io/turepositorio](https://tuusuario.github.io/turepositorio)
-
-Si estás utilizando un dominio personalizado, el sitio se encuentra en:
-
 [https://caninformatic.es](https://caninformatic.es)
 
 ## Instrucciones de despliegue
